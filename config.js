@@ -8,6 +8,6 @@ var config = {
         "I'm sorry I wasn't the best, im sorry I couldn't be good enough for you. I just hope everything will be okay soon, I really miss how we used to talk.🥹 I love you a lot 💕",
 
     ],
-    date: "2024-05-22T20:12:00",
+    date: "2018-05-08T20:18:27",
     names: ["☃︎【 Anukul 】", "‎ "]
 };
